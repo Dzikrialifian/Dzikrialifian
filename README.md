@@ -1,5 +1,7 @@
 # Welcom to My Workspace 👋
 
+![](img/banner.png)
+
 <!--
 **Dzikrialifian/Dzikrialifian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
