@@ -1,4 +1,4 @@
-## Hi there 👋
+# Welcom to My Workspace 👋
 
 <!--
 **Dzikrialifian/Dzikrialifian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently take study at University State of Surabaya
+- 🌱 I’m currently learning **data science** and **mechine learning**
+
+**Let's visit my social media [Instagram](https://www.instagram.com/_.dzikri.alifian._/)**
+
